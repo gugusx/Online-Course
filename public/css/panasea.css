@@ -1,0 +1,114 @@
+	body{
+	background:linear-gradient(#04898f,#0cda85) no-repeat bottom;
+background-size:cover;
+background-attachment:fixed;
+height:100%;
+	
+	}
+	
+	.jumbotron{
+	background:linear-gradient(#04898f,#0cda85) no-repeat bottom;
+background-size:cover;
+background-attachment:fixed;
+height:100%;
+	
+	}
+	
+	
+	
+	
+	.hijau{
+	background-color:#189da5;
+	color:#fff;
+	
+	border:none;
+	}
+	
+	.hijau:hover{
+	background-color:#444341;
+	color:#fff;
+	
+	border:none;
+	}
+	
+	.community-images {
+    display: flex;
+    justify-content: center;
+    padding: 40px 0;
+}
+
+input[type="email"].form-control{
+BORDER-RADIUS:NONE;
+}
+input[type="email"].line
+{
+box-shadow:none !important;
+    background: transparent;
+   border:none;
+    box-sizing: border-box;
+	color: white;
+	
+	border-bottom:1px solid #fff;
+}
+
+input[type="password"].line:focus
+{
+box-shadow:none !important;
+    background: transparent;
+   border:none;
+    box-sizing: border-box;
+	color: white;
+	
+	border-bottom:1px solid #fff;
+}
+
+
+
+input[type="password"].form-control{
+BORDER-RADIUS:NONE;
+}
+input[type="password"].line
+{
+box-shadow:none !important;
+    background: transparent;
+   border:none;
+    box-sizing: border-box;
+	color: white;
+	
+	border-bottom:1px solid #fff;
+}
+
+input[type="password"].line:focus
+{
+box-shadow:none !important;
+    background: transparent;
+   border:none;
+    box-sizing: border-box;
+	color: white;
+	
+	border-bottom:1px solid #fff;
+}
+	
+	
+	
+	.card {
+    /* Add shadows to create the "card" effect */
+     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.5);
+    transition: 0.3s;
+    border-radius: 5px; /* 5px rounded corners */
+	background:#fff;
+	
+}
+
+/* On mouse-over, add a deeper shadow */
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+/* Add some padding inside the card container */
+.container {
+    padding: 2px 16px;
+}
+
+
+
